@@ -1,5 +1,7 @@
 # ft_irc
 
+![Alt text](irc.png)
+
 ## Introduction
 ft_irc is a project focused on creating an IRC (Internet Relay Chat) server in C++ 98. This server will allow real-time text-based communication between clients over the internet using standard IRC protocols. The goal of this project is to gain a deeper understanding of network programming, socket communication, and the principles of client-server architecture.
 
